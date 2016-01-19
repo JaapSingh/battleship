@@ -1,5 +1,6 @@
 # battleship
 Very Simple Battleship game designed in python
+
 Possible Future Additions:
 
 Make multiple battleships: you'll need to be careful because you need to make sure that you don’t place battleships on top of each other on the game board. You'll also want to make sure that you balance the size of the board with the number of ships so the game is still challenging and fun to play.
